@@ -1,0 +1,61 @@
+{
+    "users" : [
+        {
+          "id": 1,
+          "name": "fajriawan",
+          "nip": 281821828128
+        },{
+          "id": 2,
+          "name": "dajriawan",
+          "nip": 181821828128
+        },{
+          "id": 3,
+          "name": "dajriawan",
+          "nip": 181821828128
+        },{
+          "id": 4,
+          "name": "dajriawan",
+          "nip": 181821828128
+        },{
+          "id": 5,
+          "name": "dajriawan",
+          "nip": 181821828128
+        },{
+          "id": 6,
+          "name": "dajriawan",
+          "nip": 181821828128
+        },{
+          "id": 7,
+          "name": "dajriawan",
+          "nip": 181821828128
+        },{
+          "id": 8,
+          "name": "dajriawan",
+          "nip": 181821828128
+        },{
+          "id": 9,
+          "name": "dajriawan",
+          "nip": 181821828128
+        },{
+          "id": 10,
+          "name": "dajriawan",
+          "nip": 181821828128
+        },{
+          "id": 11,
+          "name": "dajriawan",
+          "nip": 181821828128
+        },{
+          "id": 12,
+          "name": "dajriawan",
+          "nip": 181821828128
+        },{
+          "id": 13,
+          "name": "dajriawan",
+          "nip": 181821828128
+        },{
+          "id": 14,
+          "name": "dajriawan",
+          "nip": 181821828128
+        }
+      ] 
+}
