@@ -2,60 +2,116 @@
     "users" : [
         {
           "id": 1,
-          "name": "fajriawan",
-          "nip": 281821828128
+          "name": "Fajriawan Sutansa",
+          "nip": 281821828128,
+          "jabatan": "Programmer",
+          "jeniskelamin": "Laki-laki",
+          "tanggallahir": "06/04/1998"
         },{
-          "id": 2,
-          "name": "dajriawan",
-          "nip": 181821828128
+          "id": 1,
+          "name": "Sarmento Dunia",
+          "nip": 281821828456,
+          "jabatan": "Programmer",
+          "jeniskelamin": "Laki-laki",
+          "tanggallahir": "01/02/1996"
         },{
-          "id": 3,
-          "name": "dajriawan",
-          "nip": 181821828128
+          "id": 1,
+          "name": "Aisyah Ais",
+          "nip": 281821821238,
+          "jabatan": "BPS",
+          "jeniskelamin": "Perempuan",
+          "tanggallahir": "03/06/1986"
         },{
-          "id": 4,
-          "name": "dajriawan",
-          "nip": 181821828128
+          "id": 1,
+          "name": "Sukma Manisa",
+          "nip": 281821831121,
+          "jabatan": "Helpdesk",
+          "jeniskelamin": "Laki-laki",
+          "tanggallahir": "12/03/1996"
         },{
-          "id": 5,
-          "name": "dajriawan",
-          "nip": 181821828128
+          "id": 1,
+          "name": "Dion Sasongky",
+          "nip": 281821812345,
+          "jabatan": "System Analyst",
+          "jeniskelamin": "Laki-laki",
+          "tanggallahir": "03/03/1986"
         },{
-          "id": 6,
-          "name": "dajriawan",
-          "nip": 181821828128
+          "id": 1,
+          "name": "Ahmad Nasrul",
+          "nip": 281821847653,
+          "jabatan": "BPS",
+          "jeniskelamin": "Laki-laki",
+          "tanggallahir": "03/12/1977"
         },{
-          "id": 7,
-          "name": "dajriawan",
-          "nip": 181821828128
+          "id": 1,
+          "name": "Pitaloka Mary",
+          "nip": 281821898649,
+          "jabatan": "System Analyst",
+          "jeniskelamin": "Perempuan",
+          "tanggallahir": "03/12/1988"
         },{
-          "id": 8,
-          "name": "dajriawan",
-          "nip": 181821828128
+          "id": 1,
+          "name": "Dimas A",
+          "nip": 281821812128,
+          "jabatan": "Tester",
+          "jeniskelamin": "Laki-laki",
+          "tanggallahir": "11/12/1996"
         },{
-          "id": 9,
-          "name": "dajriawan",
-          "nip": 181821828128
+          "id": 1,
+          "name": "Basrul Naro",
+          "nip": 281821822121,
+          "jabatan": "System Analyst",
+          "jeniskelamin": "Laki-laki",
+          "tanggallahir": "03/03/1977"
         },{
-          "id": 10,
-          "name": "dajriawan",
-          "nip": 181821828128
+          "id": 1,
+          "name": "Dika Pras",
+          "nip": 2818211234128,
+          "jabatan": "System Analyst",
+          "jeniskelamin": "Laki-laki",
+          "tanggallahir": "03/12/1996"
         },{
-          "id": 11,
-          "name": "dajriawan",
-          "nip": 181821828128
+          "id": 1,
+          "name": "Asep Sudasep",
+          "nip": 281821827781,
+          "jabatan": "BPS",
+          "jeniskelamin": "Laki-laki",
+          "tanggallahir": "11/11/1996"
         },{
-          "id": 12,
-          "name": "dajriawan",
-          "nip": 181821828128
+          "id": 1,
+          "name": "Marisapoopoo",
+          "nip": 281821828128,
+          "jabatan": "Tester",
+          "jeniskelamin": "Perempuan",
+          "tanggallahir": "03/04/1996"
         },{
-          "id": 13,
-          "name": "dajriawan",
-          "nip": 181821828128
+          "id": 1,
+          "name": "Hajat Sudrajat",
+          "nip": 281821811111,
+          "jabatan": "Programmer",
+          "jeniskelamin": "Laki-laki",
+          "tanggallahir": "03/11/1996"
         },{
-          "id": 14,
-          "name": "dajriawan",
-          "nip": 181821828128
+          "id": 1,
+          "name": "Pras",
+          "nip": 281821828128,
+          "jabatan": "BPS",
+          "jeniskelamin": "Laki-laki",
+          "tanggallahir": "01/01/1986"
+        },{
+          "id": 1,
+          "name": "Nining Aespy",
+          "nip": 281821844443,
+          "jabatan": "Helpdesk",
+          "jeniskelamin": "Perempuan",
+          "tanggallahir": "11/02/1996"
+        },{
+          "id": 1,
+          "name": "M Asape",
+          "nip": 281821822222,
+          "jabatan": "System Analyst",
+          "jeniskelamin": "Laki-laki",
+          "tanggallahir": "12/12/1985"
         }
       ] 
 }
